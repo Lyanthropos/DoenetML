@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import DoenetML from "../../DoenetML.jsx";
-// import testCodeDoenetML from './testCode.doenet';
+// import testCodeDoenetML from './testCode.doenet?raw';
 
 function Test() {
   // console.log("===Test")
